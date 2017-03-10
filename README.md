@@ -1,5 +1,5 @@
 # Eater
-v1.2
-======= To Start Server ======
-cd <project directory>
-node server.js
+v1.2<br/>
+To Start Server: node server.js<br/>
+
+
